@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<TransDrugProduction.label>Производство гормональных препаратов</TransDrugProduction.label>
+<TransDrugProduction.description>Исследуйте как создавать эстроген и тестостерон, гормоны, часто используемые для феминизации али маскулинизации организма.</TransDrugProduction.description>
+<TransClothesProduction.label>Гендерная одежда</TransClothesProduction.label>
+<TransClothesProduction.description>Исследуйте, как создать одежду, утверждающую гендер, акцентуирующую али скрывающую гендерные черты.</TransClothesProduction.description>
+<TopSurgery.label>Верхние операции</TopSurgery.label>
+<TopSurgery.description>Исследуйте как создать и установить искусственную грудь, а также как удалить естественную.</TopSurgery.description>
+<ShoulderSurgery.label>Брахиопластика</ShoulderSurgery.label>
+<ShoulderSurgery.description>Исследуйте как хирургически увеличить али уменьшить размер плечевых суставов.</ShoulderSurgery.description>
+<BottomSurgery.label>Нижние операции</BottomSurgery.label>
+<BottomSurgery.description>Исследуйте способность изменять пол пешек, значительно помогая трансгендерным пешкам.</BottomSurgery.description>
+<AdvancedTrans.label>Продвинутое изменение пола</AdvancedTrans.label>
+<AdvancedTrans.description>Исследуйте способность изменять пол пешек с помощью Биоскульптора. \n\nВ отличие от нижней операции, смена пола через Биоскульптор не стерилизует пешку.</AdvancedTrans.description>
+
+</LanguageData>

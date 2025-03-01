@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstalledProsthetic_Abhorrent.stages.0.label>Установленный протез</InstalledProsthetic_Abhorrent.stages.0.label>
+<InstalledProsthetic_Abhorrent.stages.0.description>Пришлось установить протез. Се было глубоко оскорбительно для моих убеждений.</InstalledProsthetic_Abhorrent.stages.0.description>
+<InstalledProsthetic_Know_Abhorrent.stages.0.label>Установленный протез</InstalledProsthetic_Know_Abhorrent.stages.0.label>
+<InstalledProsthetic_Disapproved.stages.0.label>Установленный протез</InstalledProsthetic_Disapproved.stages.0.label>
+<InstalledProsthetic_Disapproved.stages.0.description>Пришлось установить протез. Се явно противоречило моим убеждениям.</InstalledProsthetic_Disapproved.stages.0.description>
+<InstalledProsthetic_Know_Disapproved.stages.0.label>Установленный протез</InstalledProsthetic_Know_Disapproved.stages.0.label>
+<IsTrans_Abhorrent.stages.0.label>Транс мысли</IsTrans_Abhorrent.stages.0.label>
+<IsTrans_Abhorrent.stages.0.description>Почему я так себя чувствую? Я ужасен...</IsTrans_Abhorrent.stages.0.description>
+<HasProsthetic_Abhorrent.stages.0.label>Искусственная часть</HasProsthetic_Abhorrent.stages.0.label>
+<HasProsthetic_Abhorrent.stages.0.description>Во мне е искусственная часть тела. Се отвратительное оскорбление всего, во что я верю!</HasProsthetic_Abhorrent.stages.0.description>
+<Trans_Abhorrent_Social.stages.0.label>Транс</Trans_Abhorrent_Social.stages.0.label>
+<IsTrans_Disapproved.stages.0.label>Транс мысли</IsTrans_Disapproved.stages.0.label>
+<IsTrans_Disapproved.stages.0.description>Что се за чувство в моей интуиции... и как мне заставить его уйти?</IsTrans_Disapproved.stages.0.description>
+<HasProsthetic_Disapproved.stages.0.label>Искусственная часть</HasProsthetic_Disapproved.stages.0.label>
+<HasProsthetic_Disapproved.stages.0.description>Во мне е искусственная часть тела. Я не верю, что такие вещи приемлемы.</HasProsthetic_Disapproved.stages.0.description>
+<Trans_Disapproved_Social.stages.0.label>Транс</Trans_Disapproved_Social.stages.0.label>
+<IsTrans_Approved.stages.0.label>Трансгендер принят</IsTrans_Approved.stages.0.label>
+<IsTrans_Approved.stages.0.description>Я рад быть там, где я могу свободно выражать себя.</IsTrans_Approved.stages.0.description>
+<IsTrans_Exalted.stages.0.label>Трансгендерный экзальтант</IsTrans_Exalted.stages.0.label>
+<IsTrans_Exalted.stages.0.description>Ко мне относятся по-особенному за то, кто я е. Се здорово.</IsTrans_Exalted.stages.0.description>
+<Trans_Exalted_Social.stages.0.label>Транс</Trans_Exalted_Social.stages.0.label>
+
+</LanguageData>

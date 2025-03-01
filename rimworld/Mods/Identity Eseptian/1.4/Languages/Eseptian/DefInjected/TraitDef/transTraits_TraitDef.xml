@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<maleGender.degreeDatas.0.label>Транс-мужчина</maleGender.degreeDatas.0.label>
+<maleGender.degreeDatas.0.description>{PAWN_nameDef} сильно идентифицирует себя как мужчина. Физические черты, связанные с мужским полом, дают повышение настроения, в то время как черты, конфликтующие с ним, дадут негативное настроение.</maleGender.degreeDatas.0.description>
+<maleGender.degreeDatas.0.labelFemale>Транс-мужчина</maleGender.degreeDatas.0.labelFemale>
+<femaleGender.degreeDatas.0.label>Транс-женщина</femaleGender.degreeDatas.0.label>
+<femaleGender.degreeDatas.0.description>{PAWN_nameDef} сильно идентифицирует себя как женщина. Физические черты, связанные с женским полом, дают повышение настроения, в то время как черты, конфликтующие с ним, дадут негативное настроение.</femaleGender.degreeDatas.0.description>
+<femaleGender.degreeDatas.0.labelFemale>Транс-женщина</femaleGender.degreeDatas.0.labelFemale>
+<androgyneGender.degreeDatas.0.label>Андрогин</androgyneGender.degreeDatas.0.label>
+<androgyneGender.degreeDatas.0.description>{PAWN_nameDef} не хочет, чтобы его идентифицировали как какой-либо пол. Чем они ближе к истинной андрогинности, тем они счастливее.</androgyneGender.degreeDatas.0.description>
+<androgyneGender.degreeDatas.0.labelFemale>Андрогин</androgyneGender.degreeDatas.0.labelFemale>
+<monster.degreeDatas.0.label>Монстроподобность</monster.degreeDatas.0.label>
+<monster.degreeDatas.0.description>{PAWN_nameDef} считает, что человечество является истинным монстром. Они хотят избавиться от своей человечности и стать монстроподобными.</monster.degreeDatas.0.description>
+<monster.degreeDatas.0.labelFemale>Монстроподобность</monster.degreeDatas.0.labelFemale>
+<noGenderPref.degreeDatas.0.label>Доволен собой</noGenderPref.degreeDatas.0.label>
+<noGenderPref.degreeDatas.0.description>{PAWN_nameDef} довольствуется своим телом, независимо от их идентифицированного пола. Они не будут испытывать никакой формы дисфории.</noGenderPref.degreeDatas.0.description>
+<noGenderPref.degreeDatas.0.labelFemale>Довольна собой</noGenderPref.degreeDatas.0.labelFemale>
+<bodySensitive.degreeDatas.0.label>Телесная дисфория</bodySensitive.degreeDatas.0.label>
+<bodySensitive.degreeDatas.0.description>{PAWN_nameDef} гораздо больше страдает дисфорией, чем обычно.</bodySensitive.degreeDatas.0.description>
+<bodySensitive.degreeDatas.0.labelFemale>Телесная дисфория</bodySensitive.degreeDatas.0.labelFemale>
+
+</LanguageData>

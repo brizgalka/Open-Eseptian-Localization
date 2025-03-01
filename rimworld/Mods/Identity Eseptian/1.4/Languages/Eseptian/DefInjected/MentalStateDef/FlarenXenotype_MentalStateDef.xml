@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<FlarenBreak.label>Берсерк</FlarenBreak.label>
+<FlarenBreak.beginLetter>{0} сошел с ума.\n\n[PAWN_pronoun] нападет на всех, если [PAWN_pronoun] кого-то увидит.</FlarenBreak.beginLetter>
+<FlarenBreak.recoveryMessage>{0}'s гнев берсерка подошел к концу.</FlarenBreak.recoveryMessage>
+<FlarenBreak.baseInspectLine>Психическое состояние: Берсерк</FlarenBreak.baseInspectLine>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<dysphoriaStat.label>Дисфория (общая)</dysphoriaStat.label>
+<dysphoriaStat.description>Дисфория – се уровень удовлетворенности пешки своим телом, на кой влияют черты, связанные с телом / голосом. \n\n Общая дисфория основана на чертах, кои влияют на большинство пешек (таких как красота).</dysphoriaStat.description>
+<MascStat.label>Маскулинность</MascStat.label>
+<MascStat.description>Количество маскулинной энергии, кою ся пешка выделяет физически.\n\n Се оказывает влияние на трансгендерных пешек. \n\n Коли пол пешки мужской, се значение будет на 30% выше, неж отображается.</MascStat.description>
+<FemStat.label>Феминность</FemStat.label>
+<FemStat.description>Количество феминной энергии, кою ся пешка выделяет физически.\n\n Се оказывает влияние на трансгендерных пешек. \n\n Коли пол пешки женский, се значение будет на 30% выше, неж отображается.</FemStat.description>
+<FlarenStat.label>Монстрозность</FlarenStat.label>
+<FlarenStat.description>Количество монстроподобных элементов, коими обладает пешка. \n Гены Фларенов способствуют этому.</FlarenStat.description>
+<dysMultiplier.label>Интенсивность дисфории</dysMultiplier.label>
+<dysMultiplier.description>Интенсивность, с которой испытывается дисфория.</dysMultiplier.description>
+
+</LanguageData>

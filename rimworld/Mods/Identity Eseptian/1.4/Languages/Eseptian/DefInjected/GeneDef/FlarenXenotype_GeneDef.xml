@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Flaren_Mindset.label>Мышление Фларена</Flaren_Mindset.label>
+<Flaren_Mindset.labelShortAdj>Фларенообразный</Flaren_Mindset.labelShortAdj>
+<Flaren_Mindset.description>Носители этого гена проявляют невероятно бурные тенденции и могут набрасываться на окружающих наугад. Они невосприимчивы к дисфории, вызванной чудовищными генами.</Flaren_Mindset.description>
+<Flaren_Special.label>Дефектный Фларен</Flaren_Special.label>
+<Flaren_Special.labelShortAdj>Рождение Фларена</Flaren_Special.labelShortAdj>
+<Flaren_Special.description>Очень редко Фларены рождаются без агрессии, естественной со сверстниками. Это делает их более гражданскими, но и гораздо более недовольными своими чудовищными телами.</Flaren_Special.description>
+<Headbone_FlarenHorns.label>Флареновые рога</Headbone_FlarenHorns.label>
+<Headbone_FlarenHorns.description>Носители этого гена выращивают пару Флареноподобных рогов.</Headbone_FlarenHorns.description>
+<MeleeDamage_Stronger.label>Очень сильный урон ближнего боя</MeleeDamage_Stronger.label>
+<MeleeDamage_Stronger.labelShortAdj>Невероятный</MeleeDamage_Stronger.labelShortAdj>
+<MeleeDamage_Stronger.description>Носители этого гена наносят гораздо больший урон в ближнем бою. Их мышечная ткань способна быстро смещаться и искривляться, чтобы максимизировать любые повреждения.</MeleeDamage_Stronger.description>
+<Hair_Turquoise.label>Бирюзовые волосы</Hair_Turquoise.label>
+<Hair_HotRed.label>Горячие рыжие волосы</Hair_HotRed.label>
+<Hair_FlarenOrange.label>Фларенские оранжевые волосы</Hair_FlarenOrange.label>
+<Hair_Midnight.label>Полуночные волосы</Hair_Midnight.label>
+<Eyes_Flaren.label>Фларенские глаза</Eyes_Flaren.label>
+<Eyes_Flaren.labelShortAdj>Дикоглазый</Eyes_Flaren.labelShortAdj>
+<Eyes_Flaren.description>Носители этого гена имеют глубоко краснопигментированные глаза.</Eyes_Flaren.description>
+
+</LanguageData>

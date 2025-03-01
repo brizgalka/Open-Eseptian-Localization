@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<InstallBreast.label>Вживить искусственную грудь</InstallBreast.label>
+<InstallBreast.description>Вживление искусственной груди.</InstallBreast.description>
+<InstallBreast.jobString>Вживляет искусственную грудь.</InstallBreast.jobString>
+<SexChange.jobString>Выполняет нижнюю операцию.</SexChange.jobString>
+<SexChange.label>Сделать нижнюю операцию</SexChange.label>
+<SexChange.description>Изменяет биологический пол пациента на противоположный тому, кой является в настоящее время.</SexChange.description>
+<ShoulderExtend.jobString>Увеличивает плечевой сустав.</ShoulderExtend.jobString>
+<ShoulderExtend.label>Увеличение плечевого сустава</ShoulderExtend.label>
+<ShoulderExtend.description>Ключицы пешки расширяются, чтобы придать вид более широких плеч.</ShoulderExtend.description>
+<ShoulderReduce.jobString>Уменьшает плечевой сустав.</ShoulderReduce.jobString>
+<ShoulderReduce.label>Уменьшение плечевого сустава</ShoulderReduce.label>
+<ShoulderReduce.description>Ключицы пешки сужаются, чтобы придать вид более узких плеч.</ShoulderReduce.description>
+<TopSurgery.jobString>Удаляет грудь.</TopSurgery.jobString>
+<TopSurgery.label>Удалить грудь</TopSurgery.label>
+<TopSurgery.description>Хирургическим путем удаляют грудь пациентки.</TopSurgery.description>
+
+</LanguageData>

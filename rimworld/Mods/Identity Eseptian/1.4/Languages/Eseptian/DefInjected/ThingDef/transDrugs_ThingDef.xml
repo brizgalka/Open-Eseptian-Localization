@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Estrogen.label>Таблетка эстрогена</Estrogen.label>
+<Estrogen.description>Препарат для феминизации пешек, часто используемый в качестве гендерно-аффирмативного препарата для транс-людей. \n Действует временно.</Estrogen.description>
+<Estrogen.ingestible.ingestReportString>Принимает {0}.</Estrogen.ingestible.ingestReportString>
+<Estrogen.ingestible.ingestCommandString>Берёт {0}</Estrogen.ingestible.ingestCommandString>
+<Testosterone.label>Таблетка тестостерона</Testosterone.label>
+<Testosterone.description>Препарат для маскулинизации пешек, часто используемый в качестве гендерно-утверждающего препарата для транс-людей. \n Действует временно.</Testosterone.description>
+<Testosterone.ingestible.ingestReportString>Принимает {0}.</Testosterone.ingestible.ingestReportString>
+<Testosterone.ingestible.ingestCommandString>Берёт {0}</Testosterone.ingestible.ingestCommandString>
+
+</LanguageData>

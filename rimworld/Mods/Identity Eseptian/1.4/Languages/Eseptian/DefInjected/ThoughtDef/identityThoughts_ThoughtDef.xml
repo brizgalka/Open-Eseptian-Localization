@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<DysphoricTrait.stages.0.label>Дисфория (незначительная)</DysphoricTrait.stages.0.label>
+<DysphoricTrait.stages.0.description>Мое тело не чувствует себя лепо. Се расстраивает меня.</DysphoricTrait.stages.0.description>
+<DysphoricTrait.stages.1.label>Дисфория (умеренная)</DysphoricTrait.stages.1.label>
+<DysphoricTrait.stages.1.description>Я не хочу так выглядеть... Се похоже на то, что я застрял не в том теле.</DysphoricTrait.stages.1.description>
+<DysphoricTrait.stages.2.label>Дисфория (высокая)</DysphoricTrait.stages.2.label>
+<DysphoricTrait.stages.2.description>Я не могу теперь смотреть в зеркало. Мне противно то, что я так выгляжу.</DysphoricTrait.stages.2.description>
+<DysphoricTrait.stages.3.label>Дисфория (серьёзная)</DysphoricTrait.stages.3.label>
+<DysphoricTrait.stages.3.description>Почему я должен быть таким ужасным??</DysphoricTrait.stages.3.description>
+<DysphoricTraitGood.stages.0.label>Эйфория (незначительная)</DysphoricTraitGood.stages.0.label>
+<DysphoricTraitGood.stages.0.description>Я чувствую себя довольно лепо.</DysphoricTraitGood.stages.0.description>
+<DysphoricTraitGood.stages.1.label>Эйфория (умеренная)</DysphoricTraitGood.stages.1.label>
+<DysphoricTraitGood.stages.1.description>Вау, се я в зеркале?</DysphoricTraitGood.stages.1.description>
+<DysphoricTraitGood.stages.2.label>Эйфория (высокая)</DysphoricTraitGood.stages.2.label>
+<DysphoricTraitGood.stages.2.description>Я так близок к тому что я чувствую у себя внутри...</DysphoricTraitGood.stages.2.description>
+<DysphoricTraitGood.stages.3.label>Эйфория (финальная)</DysphoricTraitGood.stages.3.label>
+<DysphoricTraitGood.stages.3.description>Я, наконец, тот, кем я хочу быть.</DysphoricTraitGood.stages.3.description>
+
+</LanguageData>

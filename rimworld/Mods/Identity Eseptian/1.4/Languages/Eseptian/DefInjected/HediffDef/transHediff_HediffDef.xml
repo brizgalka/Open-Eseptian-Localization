@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Breasts.label>Грудь</Breasts.label>
+<Breasts.description>Естественная женственная грудь.</Breasts.description>
+<breastImplant.label>Грудь (искусственная)</breastImplant.label>
+<breastImplant.description>Искусственная грудь. Почти идентична естественной.</breastImplant.description>
+<NarrowShoulders.label>Узкие плечи</NarrowShoulders.label>
+<NarrowShoulders.description>Узкие плечи.</NarrowShoulders.description>
+<BroadShoulders.label>Широкие плечи</BroadShoulders.label>
+<BroadShoulders.description>Широкие плечи.</BroadShoulders.description>
+<NoBreasts.label>Без груди</NoBreasts.label>
+<NoBreasts.description>У сией пешки нет груди.</NoBreasts.description>
+
+</LanguageData>
