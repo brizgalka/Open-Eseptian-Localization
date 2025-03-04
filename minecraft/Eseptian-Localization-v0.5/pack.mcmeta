@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Добавляет Эсептийскую локализацию"
+    },
+    "language": {
+        "ep_ep": {
+            "name": "Эсептийский",
+            "region": "Эсептия",
+            "bidirectional": "false"
+        }
+    }
+}
